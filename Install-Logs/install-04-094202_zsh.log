@@ -1,0 +1,77 @@
+[33m[NOTE][m Installing zsh ...
+Last metadata expiration check: 0:15:09 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:15:09 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                   Arch       Version                 Repository   Size
+================================================================================
+Installing:
+ zsh                       x86_64     5.9-13.fc40             fedora      3.3 M
+Installing weak dependencies:
+ yt-dlp-zsh-completion     noarch     2024.04.09-1.fc40       updates      11 k
+
+Transaction Summary
+================================================================================
+Install  2 Packages
+
+================================================================================
+ Package                   Arch       Version                 Repository   Size
+================================================================================
+Installing:
+ zsh                       x86_64     5.9-13.fc40             fedora      3.3 M
+Installing weak dependencies:
+ yt-dlp-zsh-completion     noarch     2024.04.09-1.fc40       updates      11 k
+
+Transaction Summary
+================================================================================
+Install  2 Packages
+
+Total download size: 3.3 M
+Total download size: 3.3 M
+Installed size: 7.9 M
+Installed size: 7.9 M
+Downloading Packages:
+Downloading Packages:
+(1/2): yt-dlp-zsh-completion-2024.04.09-1.fc40.  41 kB/s |  11 kB     00:00    
+(1/2): yt-dlp-zsh-completion-2024.04.09-1.fc40.  41 kB/s |  11 kB     00:00    
+(2/2): zsh-5.9-13.fc40.x86_64.rpm               670 kB/s | 3.3 MB     00:04    
+(2/2): zsh-5.9-13.fc40.x86_64.rpm               670 kB/s | 3.3 MB     00:04    
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Total                                           550 kB/s | 3.3 MB     00:06     
+Total                                           550 kB/s | 3.3 MB     00:06     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Transaction check succeeded.
+Running transaction test
+Running transaction test
+Transaction test succeeded.
+Transaction test succeeded.
+Running transaction
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : zsh-5.9-13.fc40.x86_64                                 1/2 
+  Installing       : zsh-5.9-13.fc40.x86_64                                 1/2 
+  Running scriptlet: zsh-5.9-13.fc40.x86_64                                 1/2 
+  Running scriptlet: zsh-5.9-13.fc40.x86_64                                 1/2 
+  Installing       : yt-dlp-zsh-completion-2024.04.09-1.fc40.noarch         2/2 
+  Installing       : yt-dlp-zsh-completion-2024.04.09-1.fc40.noarch         2/2 
+  Running scriptlet: yt-dlp-zsh-completion-2024.04.09-1.fc40.noarch         2/2 
+  Running scriptlet: yt-dlp-zsh-completion-2024.04.09-1.fc40.noarch         2/2 
+
+Installed:
+  yt-dlp-zsh-completion-2024.04.09-1.fc40.noarch     zsh-5.9-13.fc40.x86_64    
+
+Complete!
+ 
+
+Installed:
+  yt-dlp-zsh-completion-2024.04.09-1.fc40.noarch     zsh-5.9-13.fc40.x86_64    
+
+Complete!
+[1A[K[32m[OK][m zsh was installed.
+[32m[OK][m util-linux is already installed. Skipping...
+[3166m You chose not to install Pokemon Color Scripts.
+[33m[NOTE][m Shell changed successfully to zsh.

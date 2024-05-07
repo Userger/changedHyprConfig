@@ -1,0 +1,87 @@
+[32m[OK][m adobe-source-code-pro-fonts is already installed. Skipping...
+[32m[OK][m fira-code-fonts is already installed. Skipping...
+[32m[OK][m fontawesome-fonts-all is already installed. Skipping...
+[32m[OK][m google-droid-sans-fonts is already installed. Skipping...
+[32m[OK][m google-noto-sans-cjk-fonts is already installed. Skipping...
+[32m[OK][m google-noto-color-emoji-fonts is already installed. Skipping...
+[32m[OK][m google-noto-emoji-fonts is already installed. Skipping...
+[32m[OK][m jetbrains-mono-fonts is already installed. Skipping...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 12 5548k   12  672k    0     0   325k      0  0:00:17  0:00:02  0:00:15  672k 31 5548k   31 1744k    0     0   570k      0  0:00:09  0:00:03  0:00:06  874k 58 5548k   58 3232k    0     0   784k      0  0:00:07  0:00:04  0:00:03 1056k 78 5548k   78 4352k    0     0   859k      0  0:00:06  0:00:05  0:00:01 1088k 93 5548k   93 5212k    0     0   859k      0  0:00:06  0:00:06 --:--:-- 1042k100 5548k  100 5548k    0     0   871k      0  0:00:06  0:00:06 --:--:-- 1132k
+Font directories:
+	/usr/share/X11/fonts/Type1
+	/usr/share/X11/fonts/TTF
+	/home/yegor/.local/share/fonts
+	/usr/local/share/fonts
+	/usr/share/fonts
+	/home/yegor/.fonts
+	/home/yegor/.local/share/fonts/JetBrainsMonoNerd
+	/usr/share/fonts/abattis-cantarell-vf-fonts
+	/usr/share/fonts/adobe-source-code-pro-fonts
+	/usr/share/fonts/fira-code
+	/usr/share/fonts/fontawesome
+	/usr/share/fonts/fontawesome-6-brands-fonts
+	/usr/share/fonts/fontawesome-6-free-fonts
+	/usr/share/fonts/google-droid-sans-fonts
+	/usr/share/fonts/google-noto-color-emoji-fonts
+	/usr/share/fonts/google-noto-emoji-fonts
+	/usr/share/fonts/google-noto-sans-cjk-fonts
+	/usr/share/fonts/google-noto-vf
+	/usr/share/fonts/jetbrains-mono-fonts
+	/usr/share/fonts/liberation-mono
+	/usr/share/fonts/liberation-sans
+	/usr/share/fonts/liberation-serif
+	/usr/share/fonts/open-sans
+	/usr/share/fonts/sil-mingzat-fonts
+	/usr/share/fonts/urw-base35
+/usr/share/X11/fonts/Type1: skipping, no such directory
+/usr/share/X11/fonts/TTF: skipping, no such directory
+/home/yegor/.local/share/fonts: skipping, existing cache is valid: 0 fonts, 1 dirs
+/home/yegor/.local/share/fonts/JetBrainsMonoNerd: skipping, existing cache is valid: 96 fonts, 0 dirs
+/usr/local/share/fonts: skipping, no such directory
+/usr/share/fonts: skipping, existing cache is valid: 0 fonts, 18 dirs
+/usr/share/fonts/abattis-cantarell-vf-fonts: skipping, existing cache is valid: 6 fonts, 0 dirs
+/usr/share/fonts/adobe-source-code-pro-fonts: skipping, existing cache is valid: 14 fonts, 0 dirs
+/usr/share/fonts/fira-code: skipping, existing cache is valid: 6 fonts, 0 dirs
+/usr/share/fonts/fontawesome: skipping, existing cache is valid: 2 fonts, 0 dirs
+/usr/share/fonts/fontawesome-6-brands-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/fontawesome-6-free-fonts: skipping, existing cache is valid: 2 fonts, 0 dirs
+/usr/share/fonts/google-droid-sans-fonts: skipping, existing cache is valid: 16 fonts, 0 dirs
+/usr/share/fonts/google-noto-color-emoji-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/google-noto-emoji-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/google-noto-sans-cjk-fonts: skipping, existing cache is valid: 45 fonts, 0 dirs
+/usr/share/fonts/google-noto-vf: skipping, existing cache is valid: 25 fonts, 0 dirs
+/usr/share/fonts/jetbrains-mono-fonts: skipping, existing cache is valid: 16 fonts, 0 dirs
+/usr/share/fonts/liberation-mono: skipping, existing cache is valid: 4 fonts, 0 dirs
+/usr/share/fonts/liberation-sans: skipping, existing cache is valid: 4 fonts, 0 dirs
+/usr/share/fonts/liberation-serif: skipping, existing cache is valid: 4 fonts, 0 dirs
+/usr/share/fonts/open-sans: skipping, existing cache is valid: 10 fonts, 0 dirs
+/usr/share/fonts/sil-mingzat-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/urw-base35: skipping, existing cache is valid: 70 fonts, 0 dirs
+/home/yegor/.fonts: skipping, no such directory
+/home/yegor/.local/share/fonts/JetBrainsMonoNerd: skipping, looped directory detected
+/usr/share/fonts/abattis-cantarell-vf-fonts: skipping, looped directory detected
+/usr/share/fonts/adobe-source-code-pro-fonts: skipping, looped directory detected
+/usr/share/fonts/fira-code: skipping, looped directory detected
+/usr/share/fonts/fontawesome: skipping, looped directory detected
+/usr/share/fonts/fontawesome-6-brands-fonts: skipping, looped directory detected
+/usr/share/fonts/fontawesome-6-free-fonts: skipping, looped directory detected
+/usr/share/fonts/google-droid-sans-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-color-emoji-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-emoji-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-sans-cjk-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-vf: skipping, looped directory detected
+/usr/share/fonts/jetbrains-mono-fonts: skipping, looped directory detected
+/usr/share/fonts/liberation-mono: skipping, looped directory detected
+/usr/share/fonts/liberation-sans: skipping, looped directory detected
+/usr/share/fonts/liberation-serif: skipping, looped directory detected
+/usr/share/fonts/open-sans: skipping, looped directory detected
+/usr/share/fonts/sil-mingzat-fonts: skipping, looped directory detected
+/usr/share/fonts/urw-base35: skipping, looped directory detected
+/usr/lib/fontconfig/cache: not cleaning unwritable cache directory
+/home/yegor/.cache/fontconfig: cleaning cache directory
+/home/yegor/.fontconfig: not cleaning non-existent cache directory
+/usr/bin/fc-cache-64: succeeded

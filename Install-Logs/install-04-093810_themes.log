@@ -1,0 +1,86 @@
+[32m[OK][m unzip is already installed. Skipping...
+[33m[NOTE][m Installing gtk-murrine-engine ...
+Last metadata expiration check: 0:11:17 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:11:17 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                  Architecture Version               Repository    Size
+================================================================================
+Installing:
+ gtk-murrine-engine       x86_64       0.98.2-29.fc40        fedora       138 k
+Installing dependencies:
+ gtk2                     x86_64       2.24.33-18.fc40       fedora       3.3 M
+Installing weak dependencies:
+ libcanberra-gtk2         x86_64       0.30-35.fc40          fedora        25 k
+
+Transaction Summary
+================================================================================
+Install  3 Packages
+
+================================================================================
+ Package                  Architecture Version               Repository    Size
+================================================================================
+Installing:
+ gtk-murrine-engine       x86_64       0.98.2-29.fc40        fedora       138 k
+Installing dependencies:
+ gtk2                     x86_64       2.24.33-18.fc40       fedora       3.3 M
+Installing weak dependencies:
+ libcanberra-gtk2         x86_64       0.30-35.fc40          fedora        25 k
+
+Transaction Summary
+================================================================================
+Install  3 Packages
+
+Total download size: 3.5 M
+Total download size: 3.5 M
+Installed size: 13 M
+Installed size: 13 M
+Downloading Packages:
+Downloading Packages:
+(1/3): libcanberra-gtk2-0.30-35.fc40.x86_64.rpm  93 kB/s |  25 kB     00:00    
+(1/3): libcanberra-gtk2-0.30-35.fc40.x86_64.rpm  93 kB/s |  25 kB     00:00    
+(2/3): gtk-murrine-engine-0.98.2-29.fc40.x86_64 215 kB/s | 138 kB     00:00    
+(2/3): gtk-murrine-engine-0.98.2-29.fc40.x86_64 215 kB/s | 138 kB     00:00    
+(3/3): gtk2-2.24.33-18.fc40.x86_64.rpm          873 kB/s | 3.3 MB     00:03    
+(3/3): gtk2-2.24.33-18.fc40.x86_64.rpm          873 kB/s | 3.3 MB     00:03    
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Total                                           822 kB/s | 3.5 MB     00:04     
+Total                                           822 kB/s | 3.5 MB     00:04     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Transaction check succeeded.
+Running transaction test
+Running transaction test
+Transaction test succeeded.
+Transaction test succeeded.
+Running transaction
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : libcanberra-gtk2-0.30-35.fc40.x86_64                   1/3 
+  Installing       : libcanberra-gtk2-0.30-35.fc40.x86_64                   1/3 
+  Installing       : gtk2-2.24.33-18.fc40.x86_64                            2/3 
+  Installing       : gtk2-2.24.33-18.fc40.x86_64                            2/3 
+  Installing       : gtk-murrine-engine-0.98.2-29.fc40.x86_64               3/3 
+  Installing       : gtk-murrine-engine-0.98.2-29.fc40.x86_64               3/3 
+  Running scriptlet: gtk-murrine-engine-0.98.2-29.fc40.x86_64               3/3 
+  Running scriptlet: gtk-murrine-engine-0.98.2-29.fc40.x86_64               3/3 
+
+Installed:
+  gtk-murrine-engine-0.98.2-29.fc40.x86_64      gtk2-2.24.33-18.fc40.x86_64     
+  libcanberra-gtk2-0.30-35.fc40.x86_64         
+
+Complete!
+ 
+
+Installed:
+  gtk-murrine-engine-0.98.2-29.fc40.x86_64      gtk2-2.24.33-18.fc40.x86_64     
+  libcanberra-gtk2-0.30-35.fc40.x86_64         
+
+Complete!
+[1A[K[32m[OK][m gtk-murrine-engine was installed.
+[33m[NOTE][m Cloning Tokyo Theme GTK themes and Icons repository...
+[32m[OK][m Extracted GTK Themes & Icons to ~/.icons & ~/.themes folders
+[32m[OK][m Extracted Bibata-Modern-Ice.tar.xz to ~/.icons folder.

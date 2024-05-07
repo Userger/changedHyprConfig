@@ -1,0 +1,152 @@
+[32m[OK][m bluez is already installed. Skipping...
+[33m[NOTE][m Installing bluez-tools ...
+Last metadata expiration check: 0:12:50 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:12:50 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package       Arch     Version                                  Repo      Size
+================================================================================
+Installing:
+ bluez-tools   x86_64   0.2.0-0.23.git20170912.7cb788c.fc40      fedora   101 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+================================================================================
+ Package       Arch     Version                                  Repo      Size
+================================================================================
+Installing:
+ bluez-tools   x86_64   0.2.0-0.23.git20170912.7cb788c.fc40      fedora   101 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 101 k
+Total download size: 101 k
+Installed size: 316 k
+Installed size: 316 k
+Downloading Packages:
+Downloading Packages:
+bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40 257 kB/s | 101 kB     00:00    
+bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40 257 kB/s | 101 kB     00:00    
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Total                                           111 kB/s | 101 kB     00:00     
+Total                                           111 kB/s | 101 kB     00:00     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Transaction check succeeded.
+Running transaction test
+Running transaction test
+Transaction test succeeded.
+Transaction test succeeded.
+Running transaction
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_   1/1 
+  Installing       : bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_   1/1 
+  Running scriptlet: bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_   1/1 
+  Running scriptlet: bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_   1/1 
+
+Installed:
+  bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_64                        
+
+Complete!
+ 
+
+Installed:
+  bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_64                        
+
+Complete!
+[1A[K[32m[OK][m bluez-tools was installed.
+[33m[NOTE][m Installing blueman ...
+Last metadata expiration check: 0:12:57 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:12:57 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package            Architecture  Version                  Repository      Size
+================================================================================
+Installing:
+ blueman            x86_64        1:2.4.1-1.fc40           updates        1.5 M
+Installing dependencies:
+ bluez-obexd        x86_64        5.75-1.fc40              updates        138 k
+ libical            x86_64        3.0.18-1.fc40            updates        285 k
+
+Transaction Summary
+================================================================================
+Install  3 Packages
+
+================================================================================
+ Package            Architecture  Version                  Repository      Size
+================================================================================
+Installing:
+ blueman            x86_64        1:2.4.1-1.fc40           updates        1.5 M
+Installing dependencies:
+ bluez-obexd        x86_64        5.75-1.fc40              updates        138 k
+ libical            x86_64        3.0.18-1.fc40            updates        285 k
+
+Transaction Summary
+================================================================================
+Install  3 Packages
+
+Total download size: 1.9 M
+Total download size: 1.9 M
+Installed size: 6.6 M
+Installed size: 6.6 M
+Downloading Packages:
+Downloading Packages:
+(1/3): bluez-obexd-5.75-1.fc40.x86_64.rpm       263 kB/s | 138 kB     00:00    
+(1/3): bluez-obexd-5.75-1.fc40.x86_64.rpm       263 kB/s | 138 kB     00:00    
+(2/3): libical-3.0.18-1.fc40.x86_64.rpm         334 kB/s | 285 kB     00:00    
+(2/3): libical-3.0.18-1.fc40.x86_64.rpm         334 kB/s | 285 kB     00:00    
+(3/3): blueman-2.4.1-1.fc40.x86_64.rpm          575 kB/s | 1.5 MB     00:02    
+--------------------------------------------------------------------------------
+Total                                           613 kB/s | 1.9 MB     00:03     
+(3/3): blueman-2.4.1-1.fc40.x86_64.rpm          575 kB/s | 1.5 MB     00:02    
+--------------------------------------------------------------------------------
+Total                                           613 kB/s | 1.9 MB     00:03     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : libical-3.0.18-1.fc40.x86_64                           1/3 
+  Installing       : libical-3.0.18-1.fc40.x86_64                           1/3 
+  Installing       : bluez-obexd-5.75-1.fc40.x86_64                         2/3 
+  Installing       : bluez-obexd-5.75-1.fc40.x86_64                         2/3 
+  Running scriptlet: bluez-obexd-5.75-1.fc40.x86_64                         2/3 
+  Running scriptlet: bluez-obexd-5.75-1.fc40.x86_64                         2/3 
+Created symlink /etc/systemd/user/dbus-org.bluez.obex.service → /usr/lib/systemd/user/obex.service.
+
+ 
+Created symlink /etc/systemd/user/dbus-org.bluez.obex.service → /usr/lib/systemd/user/obex.service.
+
+  Installing       : blueman-1:2.4.1-1.fc40.x86_64                          3/3  Installing       : blueman-1:2.4.1-1.fc40.x86_64                          3/3 
+  Running scriptlet: blueman-1:2.4.1-1.fc40.x86_64                          3/3 
+  Running scriptlet: blueman-1:2.4.1-1.fc40.x86_64                          3/3 
+
+Installed:
+  blueman-1:2.4.1-1.fc40.x86_64          bluez-obexd-5.75-1.fc40.x86_64         
+  libical-3.0.18-1.fc40.x86_64          
+
+Complete!
+ 
+
+Installed:
+  blueman-1:2.4.1-1.fc40.x86_64          bluez-obexd-5.75-1.fc40.x86_64         
+  libical-3.0.18-1.fc40.x86_64          
+
+Complete!
+[1A[K[32m[OK][m blueman was installed.
+[32m[OK][m python3-cairo is already installed. Skipping...

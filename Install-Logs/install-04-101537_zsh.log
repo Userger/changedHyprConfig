@@ -1,0 +1,7 @@
+[32m[OK][m zsh is already installed. Skipping...
+[32m[OK][m util-linux is already installed. Skipping...
+[3166m You chose not to install Pokemon Color Scripts.
+Directory .oh-my-zsh already exists. Skipping re-installation.
+Directory zsh-autosuggestions already exists. Skipping cloning.
+Directory zsh-syntax-highlighting already exists. Skipping cloning.
+[33m[NOTE][m Shell changed successfully to zsh.

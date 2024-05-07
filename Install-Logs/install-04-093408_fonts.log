@@ -1,0 +1,463 @@
+[32m[OK][m adobe-source-code-pro-fonts is already installed. Skipping...
+[33m[NOTE][m Installing fira-code-fonts ...
+Last metadata expiration check: 0:07:15 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:07:15 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                 Architecture   Version            Repository      Size
+================================================================================
+Installing:
+ fira-code-fonts         noarch         6.2-8.fc40         fedora         426 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+================================================================================
+ Package                 Architecture   Version            Repository      Size
+================================================================================
+Installing:
+ fira-code-fonts         noarch         6.2-8.fc40         fedora         426 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 426 k
+Total download size: 426 k
+Installed size: 1.7 M
+Installed size: 1.7 M
+Downloading Packages:
+Downloading Packages:
+fira-code-fonts-6.2-8.fc40.noarch.rpm           630 kB/s | 426 kB     00:00    
+fira-code-fonts-6.2-8.fc40.noarch.rpm           630 kB/s | 426 kB     00:00    
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Total                                           376 kB/s | 426 kB     00:01     
+Total                                           376 kB/s | 426 kB     00:01     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Transaction check succeeded.
+Running transaction test
+Running transaction test
+Transaction test succeeded.
+Transaction test succeeded.
+Running transaction
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : fira-code-fonts-6.2-8.fc40.noarch                      1/1 
+  Installing       : fira-code-fonts-6.2-8.fc40.noarch                      1/1 
+  Running scriptlet: fira-code-fonts-6.2-8.fc40.noarch                      1/1 
+  Running scriptlet: fira-code-fonts-6.2-8.fc40.noarch                      1/1 
+
+Installed:
+  fira-code-fonts-6.2-8.fc40.noarch                                             
+
+Complete!
+ 
+
+Installed:
+  fira-code-fonts-6.2-8.fc40.noarch                                             
+
+Complete!
+[1A[K[32m[OK][m fira-code-fonts was installed.
+[33m[NOTE][m Installing fontawesome-fonts-all ...
+Last metadata expiration check: 0:07:20 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:07:20 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                    Arch        Version              Repository    Size
+================================================================================
+Installing:
+ fontawesome-fonts-all      noarch      1:6.5.2-1.fc40       updates      7.9 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+================================================================================
+ Package                    Arch        Version              Repository    Size
+================================================================================
+Installing:
+ fontawesome-fonts-all      noarch      1:6.5.2-1.fc40       updates      7.9 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 7.9 k
+Total download size: 7.9 k
+Installed size: 0  
+Installed size: 0  
+Downloading Packages:
+Downloading Packages:
+fontawesome-fonts-all-6.5.2-1.fc40.noarch.rpm    27 kB/s | 7.9 kB     00:00    
+fontawesome-fonts-all-6.5.2-1.fc40.noarch.rpm    27 kB/s | 7.9 kB     00:00    
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Total                                           7.7 kB/s | 7.9 kB     00:01     
+Total                                           7.7 kB/s | 7.9 kB     00:01     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : fontawesome-fonts-all-1:6.5.2-1.fc40.noarch            1/1 
+  Installing       : fontawesome-fonts-all-1:6.5.2-1.fc40.noarch            1/1 
+
+Installed:
+  fontawesome-fonts-all-1:6.5.2-1.fc40.noarch                                   
+
+Complete!
+ 
+
+Installed:
+  fontawesome-fonts-all-1:6.5.2-1.fc40.noarch                                   
+
+Complete!
+[1A[K[32m[OK][m fontawesome-fonts-all was installed.
+[32m[OK][m google-droid-sans-fonts is already installed. Skipping...
+[33m[NOTE][m Installing google-noto-sans-cjk-fonts ...
+Last metadata expiration check: 0:07:25 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:07:25 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                        Arch       Version             Repository  Size
+================================================================================
+Installing:
+ google-noto-sans-cjk-fonts     noarch     1:2.004-7.fc40      fedora      81 M
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 81 M
+Installed size: 125 M
+Downloading Packages:
+================================================================================
+ Package                        Arch       Version             Repository  Size
+================================================================================
+Installing:
+ google-noto-sans-cjk-fonts     noarch     1:2.004-7.fc40      fedora      81 M
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 81 M
+Installed size: 125 M
+Downloading Packages:
+google-noto-sans-cjk-fonts-2.004-7.fc40.noarch. 684 kB/s |  81 MB     02:01    
+--------------------------------------------------------------------------------
+Total                                           681 kB/s |  81 MB     02:01     
+google-noto-sans-cjk-fonts-2.004-7.fc40.noarch. 684 kB/s |  81 MB     02:01    
+--------------------------------------------------------------------------------
+Total                                           681 kB/s |  81 MB     02:01     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch       1/1 
+  Installing       : google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch       1/1 
+  Running scriptlet: google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch       1/1 
+  Running scriptlet: google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch       1/1 
+
+Installed:
+  google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch                              
+
+Complete!
+ 
+
+Installed:
+  google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch                              
+
+Complete!
+[1A[K[32m[OK][m google-noto-sans-cjk-fonts was installed.
+[33m[NOTE][m Installing google-noto-color-emoji-fonts ...
+Last metadata expiration check: 0:09:36 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:09:36 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                          Arch      Version             Repo       Size
+================================================================================
+Installing:
+ google-noto-color-emoji-fonts    noarch    20231130-1.fc40     fedora    9.1 M
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 9.1 M
+Installed size: 10 M
+Downloading Packages:
+================================================================================
+ Package                          Arch      Version             Repo       Size
+================================================================================
+Installing:
+ google-noto-color-emoji-fonts    noarch    20231130-1.fc40     fedora    9.1 M
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 9.1 M
+Installed size: 10 M
+Downloading Packages:
+google-noto-color-emoji-fonts-20231130-1.fc40.n 636 kB/s | 9.1 MB     00:14    
+--------------------------------------------------------------------------------
+Total                                           610 kB/s | 9.1 MB     00:15     
+google-noto-color-emoji-fonts-20231130-1.fc40.n 636 kB/s | 9.1 MB     00:14    
+--------------------------------------------------------------------------------
+Total                                           610 kB/s | 9.1 MB     00:15     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : google-noto-color-emoji-fonts-20231130-1.fc40.noarch   1/1 
+  Installing       : google-noto-color-emoji-fonts-20231130-1.fc40.noarch   1/1 
+  Running scriptlet: google-noto-color-emoji-fonts-20231130-1.fc40.noarch   1/1 
+  Running scriptlet: google-noto-color-emoji-fonts-20231130-1.fc40.noarch   1/1 
+
+Installed:
+  google-noto-color-emoji-fonts-20231130-1.fc40.noarch                          
+
+Complete!
+ 
+
+Installed:
+  google-noto-color-emoji-fonts-20231130-1.fc40.noarch                          
+
+Complete!
+[1A[K[32m[OK][m google-noto-color-emoji-fonts was installed.
+[33m[NOTE][m Installing google-noto-emoji-fonts ...
+Last metadata expiration check: 0:09:55 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:09:55 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                     Arch       Version                Repository  Size
+================================================================================
+Installing:
+ google-noto-emoji-fonts     noarch     20231130-1.fc40        fedora     545 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 545 k
+Installed size: 881 k
+Downloading Packages:
+================================================================================
+ Package                     Arch       Version                Repository  Size
+================================================================================
+Installing:
+ google-noto-emoji-fonts     noarch     20231130-1.fc40        fedora     545 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 545 k
+Installed size: 881 k
+Downloading Packages:
+google-noto-emoji-fonts-20231130-1.fc40.noarch. 550 kB/s | 545 kB     00:00    
+--------------------------------------------------------------------------------
+Total                                           385 kB/s | 545 kB     00:01     
+google-noto-emoji-fonts-20231130-1.fc40.noarch. 550 kB/s | 545 kB     00:00    
+--------------------------------------------------------------------------------
+Total                                           385 kB/s | 545 kB     00:01     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : google-noto-emoji-fonts-20231130-1.fc40.noarch         1/1 
+  Installing       : google-noto-emoji-fonts-20231130-1.fc40.noarch         1/1 
+  Running scriptlet: google-noto-emoji-fonts-20231130-1.fc40.noarch         1/1 
+  Running scriptlet: google-noto-emoji-fonts-20231130-1.fc40.noarch         1/1 
+
+Installed:
+  google-noto-emoji-fonts-20231130-1.fc40.noarch                                
+
+Complete!
+ 
+
+Installed:
+  google-noto-emoji-fonts-20231130-1.fc40.noarch                                
+
+Complete!
+[1A[K[32m[OK][m google-noto-emoji-fonts was installed.
+[33m[NOTE][m Installing jetbrains-mono-fonts ...
+Last metadata expiration check: 0:10:00 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Last metadata expiration check: 0:10:00 ago on Sat 04 May 2024 09:26:55 AM EDT.
+Dependencies resolved.
+Dependencies resolved.
+================================================================================
+ Package                    Architecture Version             Repository    Size
+================================================================================
+Installing:
+ jetbrains-mono-fonts       noarch       2.304-6.fc40        fedora       776 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 776 k
+Installed size: 2.3 M
+Downloading Packages:
+================================================================================
+ Package                    Architecture Version             Repository    Size
+================================================================================
+Installing:
+ jetbrains-mono-fonts       noarch       2.304-6.fc40        fedora       776 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total download size: 776 k
+Installed size: 2.3 M
+Downloading Packages:
+jetbrains-mono-fonts-2.304-6.fc40.noarch.rpm    411 kB/s | 776 kB     00:01    
+--------------------------------------------------------------------------------
+Total                                           318 kB/s | 776 kB     00:02     
+jetbrains-mono-fonts-2.304-6.fc40.noarch.rpm    411 kB/s | 776 kB     00:01    
+--------------------------------------------------------------------------------
+Total                                           318 kB/s | 776 kB     00:02     
+Running transaction check
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1  Preparing        :                                                        1/1 
+  Installing       : jetbrains-mono-fonts-2.304-6.fc40.noarch               1/1 
+  Installing       : jetbrains-mono-fonts-2.304-6.fc40.noarch               1/1 
+  Running scriptlet: jetbrains-mono-fonts-2.304-6.fc40.noarch               1/1 
+  Running scriptlet: jetbrains-mono-fonts-2.304-6.fc40.noarch               1/1 
+
+Installed:
+  jetbrains-mono-fonts-2.304-6.fc40.noarch                                      
+
+Complete!
+ 
+
+Installed:
+  jetbrains-mono-fonts-2.304-6.fc40.noarch                                      
+
+Complete!
+[1A[K[32m[OK][m jetbrains-mono-fonts was installed.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0 5548k    0  5455    0     0   3880      0  0:24:24  0:00:01  0:24:23  3880 14 5548k   14  780k    0     0   330k      0  0:00:16  0:00:02  0:00:14  809k 30 5548k   30 1708k    0     0   509k      0  0:00:10  0:00:03  0:00:07  875k 51 5548k   51 2860k    0     0   659k      0  0:00:08  0:00:04  0:00:04  973k 65 5548k   65 3644k    0     0   682k      0  0:00:08  0:00:05  0:00:03  925k 75 5548k   75 4204k    0     0   660k      0  0:00:08  0:00:06  0:00:02  846k 86 5548k   86 4812k    0     0   654k      0  0:00:08  0:00:07  0:00:01  807k 98 5548k   98 5452k    0     0   654k      0  0:00:08  0:00:08 --:--:--  750k100 5548k  100 5548k    0     0   655k      0  0:00:08  0:00:08 --:--:--  651k
+Font directories:
+	/usr/share/X11/fonts/Type1
+	/usr/share/X11/fonts/TTF
+	/home/yegor/.local/share/fonts
+	/usr/local/share/fonts
+	/usr/share/fonts
+	/home/yegor/.fonts
+	/home/yegor/.local/share/fonts/JetBrainsMonoNerd
+	/usr/share/fonts/abattis-cantarell-vf-fonts
+	/usr/share/fonts/adobe-source-code-pro-fonts
+	/usr/share/fonts/fira-code
+	/usr/share/fonts/fontawesome
+	/usr/share/fonts/fontawesome-6-brands-fonts
+	/usr/share/fonts/fontawesome-6-free-fonts
+	/usr/share/fonts/google-droid-sans-fonts
+	/usr/share/fonts/google-noto-color-emoji-fonts
+	/usr/share/fonts/google-noto-emoji-fonts
+	/usr/share/fonts/google-noto-sans-cjk-fonts
+	/usr/share/fonts/google-noto-vf
+	/usr/share/fonts/jetbrains-mono-fonts
+	/usr/share/fonts/liberation-mono
+	/usr/share/fonts/liberation-sans
+	/usr/share/fonts/liberation-serif
+	/usr/share/fonts/open-sans
+	/usr/share/fonts/sil-mingzat-fonts
+	/usr/share/fonts/urw-base35
+/usr/share/X11/fonts/Type1: skipping, no such directory
+/usr/share/X11/fonts/TTF: skipping, no such directory
+/home/yegor/.local/share/fonts: skipping, existing cache is valid: 0 fonts, 1 dirs
+/home/yegor/.local/share/fonts/JetBrainsMonoNerd: skipping, existing cache is valid: 96 fonts, 0 dirs
+/usr/local/share/fonts: skipping, no such directory
+/usr/share/fonts: skipping, existing cache is valid: 0 fonts, 18 dirs
+/usr/share/fonts/abattis-cantarell-vf-fonts: skipping, existing cache is valid: 6 fonts, 0 dirs
+/usr/share/fonts/adobe-source-code-pro-fonts: skipping, existing cache is valid: 14 fonts, 0 dirs
+/usr/share/fonts/fira-code: skipping, existing cache is valid: 6 fonts, 0 dirs
+/usr/share/fonts/fontawesome: skipping, existing cache is valid: 2 fonts, 0 dirs
+/usr/share/fonts/fontawesome-6-brands-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/fontawesome-6-free-fonts: skipping, existing cache is valid: 2 fonts, 0 dirs
+/usr/share/fonts/google-droid-sans-fonts: skipping, existing cache is valid: 16 fonts, 0 dirs
+/usr/share/fonts/google-noto-color-emoji-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/google-noto-emoji-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/google-noto-sans-cjk-fonts: skipping, existing cache is valid: 45 fonts, 0 dirs
+/usr/share/fonts/google-noto-vf: skipping, existing cache is valid: 25 fonts, 0 dirs
+/usr/share/fonts/jetbrains-mono-fonts: skipping, existing cache is valid: 16 fonts, 0 dirs
+/usr/share/fonts/liberation-mono: skipping, existing cache is valid: 4 fonts, 0 dirs
+/usr/share/fonts/liberation-sans: skipping, existing cache is valid: 4 fonts, 0 dirs
+/usr/share/fonts/liberation-serif: skipping, existing cache is valid: 4 fonts, 0 dirs
+/usr/share/fonts/open-sans: skipping, existing cache is valid: 10 fonts, 0 dirs
+/usr/share/fonts/sil-mingzat-fonts: skipping, existing cache is valid: 1 fonts, 0 dirs
+/usr/share/fonts/urw-base35: skipping, existing cache is valid: 70 fonts, 0 dirs
+/home/yegor/.fonts: skipping, no such directory
+/home/yegor/.local/share/fonts/JetBrainsMonoNerd: skipping, looped directory detected
+/usr/share/fonts/abattis-cantarell-vf-fonts: skipping, looped directory detected
+/usr/share/fonts/adobe-source-code-pro-fonts: skipping, looped directory detected
+/usr/share/fonts/fira-code: skipping, looped directory detected
+/usr/share/fonts/fontawesome: skipping, looped directory detected
+/usr/share/fonts/fontawesome-6-brands-fonts: skipping, looped directory detected
+/usr/share/fonts/fontawesome-6-free-fonts: skipping, looped directory detected
+/usr/share/fonts/google-droid-sans-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-color-emoji-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-emoji-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-sans-cjk-fonts: skipping, looped directory detected
+/usr/share/fonts/google-noto-vf: skipping, looped directory detected
+/usr/share/fonts/jetbrains-mono-fonts: skipping, looped directory detected
+/usr/share/fonts/liberation-mono: skipping, looped directory detected
+/usr/share/fonts/liberation-sans: skipping, looped directory detected
+/usr/share/fonts/liberation-serif: skipping, looped directory detected
+/usr/share/fonts/open-sans: skipping, looped directory detected
+/usr/share/fonts/sil-mingzat-fonts: skipping, looped directory detected
+/usr/share/fonts/urw-base35: skipping, looped directory detected
+/usr/lib/fontconfig/cache: not cleaning unwritable cache directory
+/home/yegor/.cache/fontconfig: cleaning cache directory
+/home/yegor/.fontconfig: not cleaning non-existent cache directory
+/usr/bin/fc-cache-64: succeeded

@@ -1,0 +1,14 @@
+[32m[OK][m sddm is already installed. Skipping...
+[32m[OK][m qt6-qt5compat is already installed. Skipping...
+[33m[NOTE][m Installing qt6-declarative ...
+Last metadata expiration check: 0:01:54 ago on Sat 04 May 2024 10:12:33 AM EDT.
+Last metadata expiration check: 0:01:54 ago on Sat 04 May 2024 10:12:33 AM EDT.
+No match for argument: qt6-declarative
+No match for argument: qt6-declarative
+Error: Unable to find a match: qt6-declarative
+Error: Unable to find a match: qt6-declarative
+[1A[K[31m[ERROR][m qt6-declarative failed to install :( , please check the install.log. You may need to install manually! Sorry I have tried :(
+[32m[OK][m qt6-qtsvg is already installed. Skipping...
+[1A[K[32m[OK][m - Removed existing 'simple-sddm-2' directory.
+[Theme]
+Current=simple-sddm-2
