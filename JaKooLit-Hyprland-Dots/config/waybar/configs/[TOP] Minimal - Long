@@ -8,10 +8,11 @@
 //"mode": "dock",
 "exclusive": true,
 "passthrough": false,
-"position": "top",
+"position": "bottom",
 "spacing": 6,
 "fixed-center": true,
 "ipc": true,
+"margin-bottom": 4,
 "margin-top": 4,
 "margin-left": 4,
 "margin-right": 4,
@@ -19,15 +20,14 @@
 "modules-left": [
 	"custom/menu",
 	"custom/separator#blank_2", 
-	"hyprland/workspaces#pacman",
+	"hyprland/workspaces#kanji",
 	"custom/separator#blank_2",
 	"mpris",
 	"custom/swaync",
-	"tray",
+	"tray"
 	],
 "modules-center": [
-	"clock",
-	"idle_inhibitor",
+	"clock"
 	],
 "modules-right": [
 	"group/motherboard",
@@ -36,7 +36,7 @@
 	"custom/separator#blank_2",
 	"group/audio",
 	"custom/separator#blank_2",
-	"custom/power",
-	],
+	"custom/power"
+	]
 
 }
